@@ -1,6 +1,5 @@
 package br.com.alura;
 
-import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.ExecutionException;
 
